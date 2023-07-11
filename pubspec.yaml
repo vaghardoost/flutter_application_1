@@ -19,6 +19,7 @@ dependencies:
   objectbox_sync_flutter_libs: ^2.1.0
   path_provider: ^2.0.15
   simple_logger: ^1.9.0+2
+  flutter_riverpod: ^2.3.6
 
 dev_dependencies:
   flutter_test:
